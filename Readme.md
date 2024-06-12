@@ -2,6 +2,9 @@
 
 Cosense Book Review Helper is a Google Chrome extension that allows you to create a book review draft on Cosense directly from Amazon book pages. It extracts relevant information from the Amazon page and generates a URL with the book details to open a new draft on Cosense.
 
+![demo](https://github.com/suzucir/cosense_book_reiew_helper/assets/261151/a1a8dbdd-cafe-4621-bbb4-6111e6ac629d)
+
+
 ## Features
 
 - Extract book information (title, author, publisher, publication date, book cover image, and Amazon product URL) from Amazon book pages.
