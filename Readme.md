@@ -1,6 +1,6 @@
 # Cosense Book Review Helper
 
-Cosense Book Review Helper is a Google Chrome extension that allows you to create a book review draft on Cosense (formerly known as Scrapbox) directly from Amazon book pages. It extracts relevant information from the Amazon page and generates a URL with the book details to open a new draft on Cosense.
+Cosense Book Review Helper is a Google Chrome extension that allows you to create a book review draft on Helpfeel Cosense (formerly known as Scrapbox) directly from Amazon book pages. It extracts relevant information from the Amazon page and generates a URL with the book details to open a new draft on Cosense.
 
 ![demo](https://github.com/suzucir/cosense_book_reiew_helper/assets/261151/a1a8dbdd-cafe-4621-bbb4-6111e6ac629d)
 
